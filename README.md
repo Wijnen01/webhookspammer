@@ -1,4 +1,4 @@
-# webhookspammer
+# Webhookspammer by Wijnen01
 Hallo, dit is mijn webhookspammer.
 Je hebt alleen python 3 nodig!
 
