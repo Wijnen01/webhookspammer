@@ -49,7 +49,7 @@ url = input('Webhook URL (Hierzo moet je je webhook invullen die je wilt spammen
 if not url:
     print('Dit is geen webhook!')
     exit(-1)
-un = input('Username Override (optional): ')
+un = input('Wat moet de naam worden? (Discord naam gebruiken? Laat dan leeg.): ')
 if not un:
     un = 'appendable'
 c = input('Wat wil je sturen? ')
