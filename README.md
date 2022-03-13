@@ -1,17 +1,19 @@
 # webhookspammer
-This is my webhook spammer!
-You only need to have python 3.
+Hallo, dit is mijn webhookspammer.
+Je hebt alleen python 3 nodig!
 
-INSTALL:
+INSTALLEREN:
 
-git clone https://github.com/Wijnen01/webhookspammer.git
+$ git clone https://github.com/Wijnen01/webhookspammer.git
 
-then cd webhookspammer
+dan
+$ cd webhookspammer
 
-then
+dan
 
-pip3 install requests
+$ pip3 install requests
 
-and then: python3 send-webhook.py
+en dan als laatste: 
+$ python3 send-webhook.py
 
-then insert your target webhook, and then follow the intructions.
+Volg de rest van de instructie dan ben je klaar!
