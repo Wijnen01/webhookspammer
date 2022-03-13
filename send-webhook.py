@@ -45,18 +45,18 @@ def whsend(hook: str, name: str, content: str, s: bool):
             print('Failed.')
 
 
-url = input('Webhook URL: ')
+url = input('Webhook URL (Hierzo moet je je webhook invullen die je wilt spammen): ')
 if not url:
-    print('you must enter a webhook URL.')
+    print('Dit is geen webhook!')
     exit(-1)
 un = input('Username Override (optional): ')
 if not un:
     un = 'appendable'
-c = input('Content to send: ')
+c = input('Wat wil je sturen? ')
 if not c:
-    print('you must enter content to send.')
+    print('O nee, je moet echts iets sturen.')
     exit(-1)
-sp = input('Spam? [y|n]: ')
+sp = input('Spammen? :) [y|n]: ')
 if not sp:
     whsend(url, un, c, True)
 if sp.lower() == 'y':
