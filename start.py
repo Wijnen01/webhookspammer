@@ -1,22 +1,3 @@
-installl pip3
-Ruun pip3
-Checck klemboard
-Checck if webhook
-Send if it is a webhook
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
