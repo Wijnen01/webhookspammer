@@ -4,12 +4,16 @@ Je hebt alleen python 3 nodig!
 
 Twee opties: 
 1: Webhook spammen
-2: Webhook verwijderen (BETA)
+2. [SOON]
 
 
 INSTALLEREN 1:
 
 $ git clone https://github.com/Wijnen01/webhookspammer.git
+
+$ python3 main.py
+
+(Dit zal je python activeren en het script gered maken. Dit zodat het sneller werkt en beter)
 
 dan
 $ cd webhookspammer
@@ -22,17 +26,3 @@ en dan als laatste:
 $ python3 send-webhook.py
 
 Volg de rest van de instructie dan ben je klaar!
-
-
-
-INSTALLEREN 2:
-
-$ git clone https://github.com/Wijnen01/webhookspammer.git
-
-dan
-$ cd webhookspammer
-
-$ pip3 install requirments.txt
-
-tot slot:
-$ python3 webhookdeleter.py
