@@ -1,6 +1,7 @@
 # Webhookspammer by Wijnen01
 Hallo, dit is mijn webhookspammer.
 Je hebt alleen python 3 nodig!
+Ja er zit ook een deleter bij!
 
 Twee opties: 
 1: Webhook spammen
