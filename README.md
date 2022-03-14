@@ -16,13 +16,6 @@ Dan
 
 $ cd webhookspammer
 
-Dan
-
-$ python3 start.py
-
-(Dit zal je python activeren en het script gered maken. Dit zodat het sneller werkt en beter)
-
-
 dan
 
 $ pip3 install requests
