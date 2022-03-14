@@ -12,12 +12,16 @@ INSTALLEREN 1:
 
 $ git clone https://github.com/Wijnen01/webhookspammer.git
 
+Dan 
+
+$ cd webhookspammer
+
+Dan
+
 $ python3 main.py
 
 (Dit zal je python activeren en het script gered maken. Dit zodat het sneller werkt en beter)
 
-dan
-$ cd webhookspammer
 
 dan
 
